@@ -16,10 +16,8 @@ jobs:
   ReuseableJobForCICD:
     uses: ORT-FI-8184-TALLER-GRUPO3/Devops/.github/workflows/cicd-generic.yml@main
     with:
-      SONAR_PROJECT:  ${{ vars.SONAR_PROJECT }}
       pom_path: 'pom.xml'
       service: 'shipping-service-example'
       target: ${{ github.ref_name }}
-    secrets: 
-      SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-
+      SONAR_PROJECT:  ${{ vars.SONAR_PROJECT }}
+    secrets: inherit
