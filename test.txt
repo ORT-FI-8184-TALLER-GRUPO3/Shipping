@@ -3,3 +3,5 @@ testeo el workflow con sonar luego de realizar cambios!!!
 Agrego variable para sonar project!
 
 Actualice el cicd!
+
+Se fixea problema de mayusculas en el yml reutilizable
