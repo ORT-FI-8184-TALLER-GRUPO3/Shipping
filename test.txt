@@ -7,3 +7,5 @@ Actualice el cicd!
 Se fixea problema de mayusculas en el yml reutilizable
 
 Fixeo session faltante en el cicd
+
+Pruebo cambiar la parte de subida de imagen a ECR
