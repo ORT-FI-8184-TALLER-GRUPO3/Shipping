@@ -12,4 +12,4 @@ Pruebo cambiar la parte de subida de imagen a ECR
 
 Agrego secreto en el repo de shipping
 
-Pruebo cambios para ver si el cicd funciona!!
+Pruebo cambios para ver si el cicd funciona!!!
