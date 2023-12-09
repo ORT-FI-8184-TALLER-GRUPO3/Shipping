@@ -5,3 +5,5 @@ Agrego variable para sonar project!
 Actualice el cicd!
 
 Se fixea problema de mayusculas en el yml reutilizable
+
+Fixeo session faltante en el cicd
