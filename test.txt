@@ -29,3 +29,5 @@ Corrijo error en el task-definition.json file
 Pruebo la task def con las nuevas credenciales aws
 
 Cambio ruta del task-definition.json
+
+Modifico task def
