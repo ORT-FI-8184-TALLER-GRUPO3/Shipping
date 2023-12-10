@@ -25,3 +25,5 @@ Pruebo ruta de task def
 Pruebo nuevamente el flujo
 
 Corrijo error en el task-definition.json file
+
+Pruebo la task def con las nuevas credenciales aws
