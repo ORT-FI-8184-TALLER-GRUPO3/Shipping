@@ -1,0 +1,41 @@
+testeo el workflow con sonar luego de realizar cambios!!!
+
+Agrego variable para sonar project!
+
+Actualice el cicd!
+
+Se fixea problema de mayusculas en el yml reutilizable
+
+Fixeo session faltante en el cicd
+
+Pruebo cambiar la parte de subida de imagen a ECR
+
+Agrego secreto en el repo de shipping
+
+Pruebo cambios para ver si el cicd funciona!!!
+
+Sigo probando...
+
+Modifico el cicd de devop para buildear la imagen distinto!!
+prueba
+otra prueba
+prueba 3!
+Pruebo ruta de task def
+
+Pruebo nuevamente el flujo
+
+Corrijo error en el task-definition.json file
+
+Pruebo la task def con las nuevas credenciales aws
+
+Cambio ruta del task-definition.json
+
+Modifico task def
+
+Pruebo nuevamente !!
+
+Test !!!
+
+Pruebo nuevamente
+
+Testing
