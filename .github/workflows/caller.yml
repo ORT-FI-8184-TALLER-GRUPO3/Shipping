@@ -20,3 +20,4 @@ jobs:
       service: 'shipping-service'
       target: ${{ github.ref_name }}
       SONAR_PROJECT:  ${{ vars.SONAR_PROJECT }}
+    secrets: inherit
